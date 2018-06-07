@@ -1,0 +1,426 @@
+/** ------ DECLARE FONTS ------- **/
+@font-face
+{
+    font-family: avenirb;
+    src: url(fonts/AvenirLTStd-Heavy.otf);
+}
+
+@font-face
+{
+    font-family: avenir;
+    src: url(fonts/AvenirLTStd-Book.otf);
+}
+
+@font-face
+{
+    font-family: gothbold;
+    src: url(fonts/gotham-bold.ttf);
+}
+
+@font-face
+{
+    font-family: gothbook;
+    src: url(fonts/gotham-book.ttf);
+}
+
+@font-face
+{
+    font-family: gothmed;
+    src: url(fonts/gotham-medium.ttf);
+}
+
+@font-face
+{
+    font-family: mensch;
+    src: url(fonts/mensch.ttf);
+}
+
+
+
+.hometitle{
+    font-family: mensch;
+    font-size: 48;
+    text-align: center;
+    color: #fff;
+    margin-top: 150px;
+
+}
+
+.homesubtitle{
+    font-family: gothbook;
+    font-size: 12;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 2.5px;
+    margin-bottom: 50px;
+}
+
+.homenav {
+    list-style: none;
+    text-decoration: none; /*???*/
+    font-family: mensch;
+    padding-left: 20px;
+    text-align: center;
+    line-height: 150%;
+
+
+}
+
+.homenav li a{
+    text-align: center;
+    text-decoration: none; /*???*/
+    color: #fff;
+    font-size: 20px;
+    line-height: 20px;
+
+}
+
+
+/*video*/
+
+.vidblock iframe {
+    position:absolute;
+    left:0;
+    width: 100%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+.vidblock{
+/*      max-width: 90vw;
+
+padding:10px;*/
+/*box-shadow: 0px 0px 10px 2px rgba(0,0,0,.1);*/
+position: relative;
+padding-bottom: 56.25%; /* 16:9
+/*padding-top: 25px;*/
+height: 0;
+}
+
+.vidbod{
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+.vidtext{
+    border-bottom: : 10px
+    padding:10px;
+
+}
+.vid {
+    display:block;
+    text-align:left;
+    margin-left:auto;
+    margin-right:auto;
+    /*margin-top:15px;*/
+    /*margin-bottom:15px;*/
+    background:rgba(0,0,0,.1);
+    padding:10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-family:avenir;
+    font-size:12px;
+    letter-spacing:0em;
+    color:#000;
+    box-shadow: 0px 0px 10px 2px rgba(128,128,128,.1);
+
+}
+
+
+
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html,body,main{
+    font-family: avenir;
+    font-size: 15px;
+    padding:0px;
+    height:100%;
+    width:100%;
+    margin: 0
+}
+
+html{
+    -webkit-overflow-x: hidden;
+    overflow-x: hidden;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body{
+    -webkit-overflow-x: hidden;
+    overflow-x: hidden;
+
+}
+
+nav{
+    /*background-color: rgba(110,120,130,.8);*/
+    background-color: rgba(255,255,255,.6);
+
+    padding-top: 45px;
+    width:100%;
+    height:100%;
+    position:fixed; /*important! was absolute... keep it fixed for mobile switch to absolute when open*/
+    -webkit-transform: translate(100vh,0);
+    transform: translate(150vw,0);
+    transition: transform 0.3s ease;
+    z-index: 1;
+    font-size: 15px;
+
+
+}
+
+nav ul{
+
+    padding:0px;
+    margin: auto;
+    text-align:right;
+    list-style: none;
+}
+
+nav ul li{
+    padding: 3px;
+    text-align: center;
+}
+
+
+nav ul li a {
+    text-decoration: none; /*???*/
+    text-shadow: -1px 1px rgba(255,255,255,.5);
+    color: #000;
+}
+
+.logo{
+
+}
+
+.social{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.socialhome{
+    text-align: center;
+    padding-top: 5px;
+    bottom: 0px;
+    left: auto;
+    right: auto;
+    padding-top:40px
+}
+
+.social img{
+    width: 40px;
+    height: 30px;
+    padding: 4px;
+}
+
+.socialhome img{
+    height: 30px;
+    padding: 4px;
+}
+
+
+.box{
+    margin: 0;
+    max-height: 100vh;
+    max-width: 100vh;
+}
+
+.box img {
+    max-width:100vw;
+    margin:0;
+    padding:0px;
+    padding-bottom: -25px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+
+
+img.menubutton {
+    z-index: 5;
+    width:40px;
+    height:40px;
+    position:fixed;
+    right: 0px;
+}
+
+nav.open{
+    position:fixed;
+    transition: transform 0.3s ease;
+    transform: translate(0vh,0);
+    box-shadow: 5px 0px 10px 2px rgba(0,0,0,.2);
+    position:absolute;
+
+}
+
+nav.close{
+    transition: transform 0.3s ease;
+    transform: translate(-200,0);
+}
+
+
+.blob{
+    text-align: center !important;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    display: block;
+    font-size: 16px;
+}
+
+ @media screen and (min-width:769px){
+
+    html{
+        overflow-x: auto;
+        overflow-y: auto;
+        overflow-scrolling:touch;/*????? randomly added this*/
+        -webkit-overflow-scrolling: touch;
+    }
+
+    body{
+        -webkit-overflow-x: auto;
+        overflow-x: auto;
+
+    }
+
+    .vidbod{
+        margin-left:200px;
+        margin-right:auto;
+        text-align:center;
+    }
+
+    nav{
+        width: 200px;
+        height:80vh;
+        margin-top:10vh;
+        transition: transform 0.3s ease;
+        -webkit-transform:translate(0,0);
+        transform:translate(0,0);
+        /*background-color: rgba(100,110,120,.5);*/
+        background-color:  rgba(255,255,255,.7);
+        position: fixed !important; /*was absolute*/
+        box-shadow: 10px 0px 5px -2px rgba(0,0,0,.2);
+        text-align: right;
+        font-size: 13px;
+
+    }
+
+    nav ul li{
+        padding-right: 20px;
+        text-align: right;
+    }
+
+    body{
+        overflow-x: auto;
+        background-color: #fff;
+        flex-flow:row nowrap; /*prevents element wrapping*/
+        -webkit-overflow-scrolling: touch;
+    }
+    main{
+        width:auto;
+        flex-grow:1; /*allows the main element to grow and take up the full remaining width*/
+        transition: transform 0.3s ease;
+
+        position: absolute;
+    }
+
+
+
+    .box{
+        max-height: 100vh;
+        font-size: 0px !important;
+        max-width: calc(100vw-200px);
+        margin: 0px;
+        padding:0px;
+        padding-left: 200px;
+
+
+    }
+
+    .box ul{
+        list-style:none;
+        white-space:nowrap; /* THIS IS WHAT MAKES THE HORIZONTAL SCROLL!!*/
+        margin: 0px;
+        padding:0px
+
+
+    }
+
+    .box img{
+        max-height:80vh;
+        max-width: calc(100%-200px);
+        vertical-align: middle;
+        margin: 0px;
+        margin-top: calc(10vh);
+        /*padding-right: 5px;*/
+        padding: 0px;
+        margin-right: 10px;
+
+        border-top-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-right-style: solid;
+
+        border-width: .5px;
+        border-color: #eee;
+
+
+
+    }
+    .box ul li {
+        display:inline;/* THIS IS WHAT MAKES THE HORIZONTAL SCROLL!!*/
+        margin: 0px;
+        padding:0px;
+    }
+
+    .blob{
+        display: none;
+    }
+
+    img.menubutton{
+        visibility: hidden;
+    }
+
+    .social{
+        position: absolute;
+        bottom:15px;
+        left: 28%;
+        text-align: center;
+    }
+
+    .social img{
+        width: 30px;
+        height: 30px;
+        padding: 2px;
+    }
+
+    .logo{
+        width:180px;
+        margin-left: 10px;
+    }
+
+
+}
+
+
+.homepage{
+  background: url('nyc01.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+

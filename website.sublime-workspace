@@ -1,0 +1,730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-field"
+			],
+			[
+				"submi",
+				"submitform"
+			],
+			[
+				"mc-f",
+				"mc-field-group"
+			],
+			[
+				"conta",
+				"contactName"
+			],
+			[
+				"contac",
+				"contactForm"
+			],
+			[
+				"tab",
+				"tab-full"
+			],
+			[
+				"col-s",
+				"col-six"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-kerning"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"s",
+				"social"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"jus",
+				"justify-all"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"border-r",
+				"border-right-style"
+			],
+			[
+				"border-lef",
+				"border-left-style"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"mr",
+				"margin-top"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"100vh",
+				"100vh-200px"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"menu",
+				"menubutton"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"ob",
+				"object-position"
+			],
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"flex",
+				"flex"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"AL",
+				"align-self"
+			],
+			[
+				"H",
+				"H4\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"paddng",
+				"padding-left"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"subl",
+				"sublime_test"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 260.0,
+		"history":
+		[
+			"cd ..",
+			"print \"sworup\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sworup/Desktop/current-sworupranjit.com",
+		"/Users/sworup/Desktop/current-sworupranjit.com/street"
+	],
+	"file_history":
+	[
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/pages/tabs/tabs.html",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/pages/borrower/borrower.html",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/pages/tabs/tabs.module.ts",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/pages/book/book.scss",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/pages/lender/lender.scss",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/app/app.component.ts",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/components/cost/cost.component.scss",
+		"/Users/sworup/Documents/foursteps/foursteps-app/www/build/main.css",
+		"/Users/sworup/Documents/foursteps/foursteps-app/src/theme/variables.scss",
+		"/Users/sworup/Desktop/vidtest.html",
+		"/Users/sworup/Documents/foursteps/foursteps-web/public/css/main.css",
+		"/Users/sworup/Documents/foursteps/foursteps-web/public/css/base.css",
+		"/Users/sworup/Documents/foursteps/foursteps-web/public/index-original.html",
+		"/Users/sworup/Documents/foursteps/foursteps-web/public/index.html",
+		"/Users/sworup/Documents/foursteps/foursteps-web/public/styles.html",
+		"/Users/sworup/Desktop/current-sworupranjit.com/main.css",
+		"/Users/sworup/Desktop/current-sworupranjit.com/street/index.html",
+		"/Users/sworup/Desktop/current-sworupranjit.com/index.html",
+		"/Users/sworup/Documents/write",
+		"/Users/sworup/Desktop/Kim/code/index.html",
+		"/Users/sworup/Desktop/Kim/code/<html>",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/street/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/main.css",
+		"/Users/sworup/Documents/scribble",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/index.html",
+		"/Users/sworup/Documents/tasks",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/events/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/commercial/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/vsco/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/video.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/fashion/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/interior/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/nature/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/navyaata/index.html",
+		"/Users/sworup/Desktop/RiseNY-sworupranjit.com/rise.sublime-project",
+		"/Users/sworup/Desktop/possible - newwebsite/index.html",
+		"/Users/sworup/Desktop/possible - newwebsite/me.svg",
+		"/Users/sworup/Desktop/newwebsite/fashion/index.html",
+		"/Users/sworup/Desktop/newwebsite/index.html",
+		"/Users/sworup/Desktop/newwebsite/video.html",
+		"/Users/sworup/Desktop/newwebsite/main.css",
+		"/Users/sworup/Documents/scribbles.sublime-workspace",
+		"/Users/sworup/Desktop/newwebsite/events/index.html",
+		"/Users/sworup/Desktop/newwebsite/commercial/index.html",
+		"/Users/sworup/Desktop/newwebsite/interior/index.html",
+		"/Users/sworup/Desktop/newwebsite/nature/index.html",
+		"/Users/sworup/Desktop/newwebsite/navyaata/index.html",
+		"/Users/sworup/Desktop/newwebsite/street/index.html",
+		"/Users/sworup/Desktop/newwebsite/vsco/index.html",
+		"/Users/sworup/Desktop/newwebsite/indexold.html",
+		"/Users/sworup/Desktop/newwebsite/resume.html",
+		"/Users/sworup/Desktop/newwebsite/favicon.png",
+		"/Users/sworup/Desktop/newwebsite/style.css",
+		"/Users/sworup/Desktop/newwebsite/main_01.css",
+		"/Users/sworup/Desktop/newwebsite/stylemobile.css",
+		"/Users/sworup/Desktop/newwebsite/fashion/index3.html",
+		"/Users/sworup/Desktop/newwebsite/vsco/index2.html",
+		"/Users/sworup/xcodeinstall.sh",
+		"/Users/sworup/Desktop/newwebsite/fashion/talking points",
+		"/Users/sworup/Desktop/newwebsite/offcanvastemplate.html",
+		"/Users/sworup/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sworup/Desktop/newwebsite/bgimages/1.jpg",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/LayoutShifter.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/FuildCombo.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/mostlyfluid.css",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/mostlyfluid.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/pattern-mostly-fluid-quiz-blankcss-1.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/coldrop.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/responsive patterns/coldrop.css",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/Start/index.html",
+		"/Users/sworup/Documents/udacity/03 Responsive Design/Start/main.css",
+		"/Users/sworup/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/final project/bootstrap-prestructure.htm",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/final project/css/style.css",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/udacity02.sublime-project",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/toplist/udacity02.sublime-project",
+		"/Users/sworup/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/portfolio-bootstrap/style.css",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/portfolio-bootstrap/bootstrap-prestructure.htm",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/framework/test.html",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/portfolio.html",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/portfolio.css",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/framework/css/main.css",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/toplist/style.css",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/portfolio/toplist/index.html",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/introToHtmlCss.sublime-project",
+		"/Users/sworup/Documents/udacity/02 HTML:CSS/app.html",
+		"/Users/sworup/Documents/sublimeText3Licence.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 333.0,
+		"where_history":
+		[
+			"/Users/sworup/Documents/foursteps/foursteps-app",
+			"/Users/sworup/Documents/foursteps/foursteps-web/public/css",
+			"selection,/Users/sworup/Documents/foursteps/foursteps-web/public/css",
+			"selection",
+			"/Users/sworup/Desktop/current-sworupranjit.com",
+			"/Users/sworup/Desktop/RiseNY-sworupranjit.com",
+			"/Users/sworup/Desktop/newwebsite",
+			"",
+			"selection",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chatbubbles",
+			"#000000",
+			"rgba(0, 0, 0, 0.1);\n",
+			"mc-embedded-subscribe-form",
+			"css",
+			"#f9a828",
+			"twitter",
+			"our vision",
+			"07617d",
+			"h3",
+			"png",
+			"logo",
+			"name",
+			"form",
+			"menu",
+			"services\n",
+			" *  12. services\n",
+			"#000000",
+			"service",
+			"logo",
+			"logo.png",
+			"facebook.svg",
+			"instagram.svg",
+			"email.svg",
+			"facebook.svg",
+			"instagram.svg",
+			"border",
+			"z-in",
+			"body",
+			"hidden",
+			"scroll",
+			"\t\t\t<li><a href=\"../interior/index.html\">Interior</a></li>\n",
+			"\t\t\t<li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n",
+			";\"/>",
+			"goth",
+			"overflo",
+			"\t\t\t<li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n",
+			"<li><a href=\"../fashion/index.html\">Fashion</a></li>",
+			"<li><a href=\"fashion/index.html\">Fashion</a></li>",
+			"max-hei",
+			">>",
+			"300 px",
+			" <ul>\n                  <li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n                  <li><a href=\"../index.html\">Home</a></li>\n                  <li><a href=\"../fashion/index.html\">Fashion</a></li>\n                  <li><a href=\"../commercial/index.html\">Commercial</a></li>\n                  <li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n                  <li><a href=\"../interior/index.html\">Interior</a></li>\n                  <li><a href=\"../events/index.html\">Events/Weddings</a></li>\n                  <li><a href=\"../nature/index.html\">Landscape</a></li>\n                  <li><a href=\"../street/index.html\">Street</a></li>\n                  <li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n                  <li><a href=\"../video.html\">Video</a></li>\n            <li>",
+			"<ul>\n                        <li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n                        <li><a href=\"../index.html\">Home</a></li>\n                        <li><a href=\"../fashion/index.html\">Fashion</a></li>\n                        <li><a href=\"../commercial/index.html\">Commercial</a></li>\n                        <li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n                        <li><a href=\"../interior/index.html\">Interior</a></li>\n                        <li><a href=\"../events/index.html\">Events/Weddings</a></li>\n                        <li><a href=\"../nature/index.html\">Landscape</a></li>\n                        <li><a href=\"../street/index.html\">Street</a></li>\n                        <li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n                        <li><a href=\"../video.html\">Video</a></li>\n                    <li>",
+			"<ul>\n\t\t\t<li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n\t\t\t<li><a href=\"../index.html\">Home</a></li>\n\t\t\t<li><a href=\"../fashion/index.html\">Fashion</a></li>\n\t\t\t<li><a href=\"../commercial/index.html\">Commercial</a></li>\n\t\t\t<li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n\t\t\t<li><a href=\"../interior/index.html\">Interior</a></li>\n\t\t\t<li><a href=\"../events/index.html\">Events/Weddings</a></li>\n\t\t\t<li><a href=\"../nature/index.html\">Landscape</a></li>\n\t\t\t<li><a href=\"../street/index.html\">Street</a></li>\n\t\t\t<li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n\t\t\t<li><a href=\"../video.html\">Video</a></li>\n\t\t<li>",
+			"\t<meta charset=\"utf-8\" />\n",
+			"<nav>\n        <ul>\n            <li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n            <li><a href=\"../index.html\">Home</a></li>\n            <li><a href=\"../fashion/index.html\">Fashion</a></li>\n            <li><a href=\"../commercial/index.html\">Commercial</a></li>\n            <li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n            <li><a href=\"../interior/index.html\">Interior</a></li>\n            <li><a href=\"../events/index.html\">Events/Weddings</a></li>\n            <li><a href=\"../nature/index.html\">Landscape</a></li>\n            <li><a href=\"../street/index.html\">Street</a></li>\n            <li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n            <li><a href=\"../video.html\">Video</a></li>\n        <li>\n            <div class=\"social\">\n                <a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"../social/instagram.svg\"></a>\n                <a href=\"mailto:sworup@gmail.com\"><img src=\"../social/email.svg\"></a>\n                <a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"../social/facebook.svg\"></a>\n            </div>\n        </li>\n        </ul>\n    </nav>",
+			"<nav>\n\t\t<ul>\n\t\t\t<li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n\t\t\t<li><a href=\"../index.html\">Home</a></li>\n\t\t\t<li><a href=\"../fashion/index.html\">Fashion</a></li>\n\t\t\t<li><a href=\"../commercial/index.html\">Commercial</a></li>\n\t\t\t<li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n\t\t\t<li><a href=\"../interior/index.html\">Interior</a></li>\n\t\t\t<li><a href=\"../events/index.html\">Events/Weddings</a></li>\n\t\t\t<li><a href=\"../nature/index.html\">Landscape</a></li>\n\t\t\t<li><a href=\"../street/index.html\">Street</a></li>\n\t\t\t<li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n\t\t\t<li><a href=\"../video.html\">Video</a></li>\n\t\t<li>\n\t\t\t<div class=\"social\">\n\t\t\t\t<a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"../social/instagram.svg\"></a>\n\t\t\t\t<a href=\"mailto:sworup@gmail.com\"><img src=\"../social/email.svg\"></a>\n\t\t\t\t<a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"../social/facebook.svg\"></a>\n\t\t\t</div>\n\t\t</li>\n\t\t</ul>\n\t</nav>",
+			"<nav>\n        <ul>\n            <li><img src=\"logo.svg\" class=\"logo\"></li>\n            <li><a href=\"index.html\">Home</a></li>\n            <li><a href=\"fashion/index.html\">Fashion</a></li>\n            <li><a href=\"commercial/index.html\">Commercial</a></li>\n            <li><a href=\"navyaata/index.html\">Magazine Covers</a></li>\n            <li><a href=\"interior/index.html\">Interior</a></li>\n            <li><a href=\"events/index.html\">Events/Weddings</a></li>\n            <li><a href=\"nature/index.html\">Landscape</a></li>\n            <li><a href=\"street/index.html\">Street</a></li>\n            <li><a href=\"vsco/index.html\">Mobile Photography</a></li>\n            <li><a href=\"video.html\">Video</a></li>\n        <li>\n            <div class=\"social\">\n                <a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"social/instagram.svg\"></a>\n                <a href=\"mailto:sworup@gmail.com\"><img src=\"social/email.svg\"></a>\n                <a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"social/facebook.svg\"></a>\n            </div>\n        </li>\n        </ul>\n    </nav>",
+			"<nav>\n\t\t<ul>\n\t\t\t<li><img src=\"logo.svg\" class=\"logo\"></li>\n\t\t\t<li><a href=\"index.html\">Home</a></li>\n\t\t\t<li><a href=\"fashion/index.html\">Fashion</a></li>\n\t\t\t<li><a href=\"commercial/index.html\">Commercial</a></li>\n\t\t\t<li><a href=\"navyaata/index.html\">Magazine Covers</a></li>\n\t\t\t<li><a href=\"interior/index.html\">Interior</a></li>\n\t\t\t<li><a href=\"events/index.html\">Events/Weddings</a></li>\n\t\t\t<li><a href=\"nature/index.html\">Landscape</a></li>\n\t\t\t<li><a href=\"street/index.html\">Street</a></li>\n\t\t\t<li><a href=\"vsco/index.html\">Mobile Photography</a></li>\n\t\t\t<li><a href=\"video.html\">Video</a></li>\n\t\t<li>\n\t\t\t<div class=\"social\">\n\t\t\t\t<a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"social/instagram.svg\"></a>\n\t\t\t\t<a href=\"mailto:sworup@gmail.com\"><img src=\"social/email.svg\"></a>\n\t\t\t\t<a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"social/facebook.svg\"></a>\n\t\t\t</div>\n\t\t</li>\n\t\t</ul>\n\t</nav>\n",
+			"font-si",
+			"shad",
+			"over",
+			"font",
+			"<li><a href=\"../video.html\">Video</a></li>\n\t\t</ul>\n\t\t<div class=\"social\">\n\t\t\t<a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"../social/instagram.png\" width=\"25\" height=\"25\"></a>\n\t\t\t<a href=\"mailto:sworup@gmail.com\"><img src=\"../social/email.png\" width=\"25\" height=\"25\"></a>\n\t\t\t<a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"../social/facebook.png\" width=\"25\" height=\"25\"></a>\n\t\t</div>\n\t</nav>",
+			"<li><a href=\"../index.html\">Home</a></li>",
+			"size",
+			"font",
+			"\t<img id=\"menu1\" src=\"../burger.png\" style=\"width:30px;height:30px; position:fixed; margin: 10px;\" class=\"menubutton\"/>",
+			"border",
+			"margin",
+			"padding",
+			"body",
+			"fi",
+			"posi",
+			"displa",
+			"\n        ",
+			"dis",
+			"index",
+			"z-",
+			"shad",
+			"font",
+			"em",
+			"font-s",
+			"ave",
+			"import",
+			"importa",
+			"90",
+			"img",
+			"overfl",
+			"shadow",
+			"\n\t\t",
+			"padding",
+			"font",
+			"inner",
+			"font",
+			"./bootstrap-prestructure_files/",
+			"./bootstrap-prestructure_files/555x300",
+			"'",
+			"trim"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#067bc2",
+			"067bc2",
+			"067bcs",
+			"facebook.png",
+			"instagram.png",
+			"email.png",
+			"\t\t\t",
+			"\t\t\t<li><img src=\"../logo.svg\" class=\"logo\"></li>\n",
+			"<li><a href=\"../fashion/index.html\">Models</a></li>",
+			"<li><a href=\"fashion/index.html\">Models</a></li>",
+			"",
+			"<nav>\n        <ul>\n            <li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n            <li><a href=\"../index.html\">Home</a></li>\n            <li><a href=\"../video.html\">Video</a></li>\n            <li><a href=\"../navyaata/index.html\">Magazine Covers</a></li>\n            <li><a href=\"../commercial/index.html\">Commercial</a></li>\n            <li><a href=\"../fashion/index.html\">Fashion</a></li>\n            <li><a href=\"../interior/index.html\">Interior</a></li>\n            <li><a href=\"../events/index.html\">Events/Weddings</a></li>\n            <li><a href=\"../nature/index.html\">Landscape</a></li>\n            <li><a href=\"../street/index.html\">Street</a></li>\n            <li><a href=\"../vsco/index.html\">Mobile Photography</a></li>\n        <li>\n            <div class=\"social\">\n                <a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"../social/instagram.svg\"></a>\n                <a href=\"mailto:sworup@gmail.com\"><img src=\"../social/email.svg\"></a>\n                <a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"../social/facebook.svg\"></a>\n            </div>\n        </li>\n        </ul>\n    </nav>",
+			"<nav>\n        <ul>\n            <li><img src=\"logo.svg\" class=\"logo\"></li>\n            <li><a href=\"index.html\">Home</a></li> \n            <li><a href=\"video.html\">Video</a></li>\n            <li><a href=\"navyaata/index.html\">Magazine Covers</a></li>\n            <li><a href=\"commercial/index.html\">Commercial</a></li>\n            <li><a href=\"fashion/index.html\">Fashion</a></li>\n            <li><a href=\"interior/index.html\">Interior</a></li>\n            <li><a href=\"events/index.html\">Events/Weddings</a></li>\n            <li><a href=\"nature/index.html\">Landscape</a></li>\n            <li><a href=\"street/index.html\">Street</a></li>\n            <li><a href=\"vsco/index.html\">Mobile Photography</a></li>\n        <li>\n            <div class=\"social\">\n                <a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"social/instagram.svg\"></a>\n                <a href=\"mailto:sworup@gmail.com\"><img src=\"social/email.svg\"></a>\n                <a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"social/facebook.svg\"></a>\n            </div>\n        </li>\n        </ul>\n    </nav>",
+			"<li><a href=\"../video.html\">Video</a></li>\n\t\t<li>\n\t\t\t<div class=\"social\">\n\t\t\t\t<a href=\"http://instagram.com/sworupranjit\" target=\"_blank\"><img src=\"../social/instagram.svg\"></a>\n\t\t\t\t<a href=\"mailto:sworup@gmail.com\"><img src=\"../social/email.svg\"></a>\n\t\t\t\t<a href=\"http://facebook.com/sworup.ranjit\" target=\"_blank\"><img src=\"../social/facebook.svg\"></a>\n\t\t\t</div>\n\t\t</li>\n\t\t</ul>\n\t</nav>",
+			"<li><img src=\"../logo.svg\" style=\"max-width:200px; padding:3px;\"></li>\n\t\t\t<li><a href=\"../index.html\">Home</a></li>",
+			"\t<img id=\"menu1\" src=\"../burger.png\" class=\"menubutton\"/>",
+			"http://placehold.it/",
+			"",
+			"8.33\n'16.67'\n'25.00'\n'33.33'\n'41.67'\n'50.00'\n'58.33'\n'66.67'\n'75.00'\n'83.33'\n'91.67'\n'100.00'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "website.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"framework/test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

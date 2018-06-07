@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<link rel="stylesheet" type="text/css"  href="main.css">
+	<link rel="icon" type="image/png" href="favicon.png">
+	<title>Video</title>
+</head>
+<body>
+	<img id="menu1" src="burger.png" class="menubutton"/>
+	<nav>
+		<ul>
+			<li><img src="logo.svg" class="logo"></li>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="video.html">Video</a></li>
+			<li><a href="navyaata/index.html">Magazine Covers</a></li>
+			<li><a href="commercial/index.html">Commercial</a></li>
+			<li><a href="fashion/index.html">Models</a></li>
+			<li><a href="events/index.html">Events/Weddings</a></li>
+			<li><a href="nature/index.html">Landscape</a></li>
+			<li><a href="street/index.html">Street</a></li>
+			<li>
+				<div class="social">
+					<a href="http://instagram.com/sworupranjit" target="_blank"><img src="social/instagram.png"></a>
+					<a href="mailto:sworup@gmail.com"><img src="social/email.png"></a>
+					<a href="http://facebook.com/sworup.ranjit" target="_blank"><img src="social/facebook.png"></a>
+				</div>
+			</li>
+		</ul>
+	</nav>
+	<script type="text/javascript">
+		var menu1 = document.getElementById("menu1");
+
+		menu1.addEventListener('click', function(e) {
+			var navBar = document.getElementsByTagName('nav')[0];
+			var button = document.getElementsByTagName('img.menubutton')
+			if (navBar.state!="open"){
+				navBar.className = 'open';
+				navBar.state = 'open';
+				button.state = 'open'
+				e.stopPropagation();
+			} else {
+				navBar.className = 'close';
+				navBar.state = 'close';
+				button.state ='close';
+				e.stopPropagation();
+			}
+		});
+	</script>
+	<!-- END SIDEBAR -->
+	<!-- CONTENT -->
+	<div class="blob"> Video </div>
+	<div>
+		<br>
+		<table class="vidbod">
+
+			<tr>
+				<td class="vidblock">
+					<iframe class="embd" src="http://www.youtube.com/embed/H7ZODxg0yyY?rel=0
+					;autohide=1;vq=hd720;rel=0;showinfo=0;color=white;" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td class="vidtext">
+					<div class="vid">
+						Title: Khai<br>
+						Run time: 4:07<br>
+						Description: Music video shot, cut and colored for Nepali Artist Bartika Eam Rai.<br>
+						Gear: Canon 5D mkII | 50mm |<br>
+						Software: Premiere Pro | After Effects
+					</div>
+				</td>
+			</tr>
+
+			<tr>
+				<td class="vidblock">
+					<iframe src="http://www.youtube.com/embed/vNwhIX_1UO0?rel=0;showinfo=0;autohide=1;vq=hd720;theme=dark;rel=0;color=white;" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td class="vidtext">
+					<div class="vid">
+						Title: Backyard Ministry<br>
+						Run time: 3:00<br>
+						Description: Another assignment for a video production class that required the production of a three-minute promo for a non-profit group. Backyard Ministry is a group of Lee University students that help out the nearby hispanic community children through friendship and
+						mentoring. <br>
+						Gear: Canon Rebel T2i| 50mm | 18-55mm |<br>
+						Software: Final Cut Pro | Magic Bullet Looks
+					</div>
+				</td>
+			</tr>
+
+
+			<tr>
+				<td class="vidblock">
+					<iframe src="http://www.youtube.com/embed/Y_5AogL-4xg?rel=0;autohide=1;vq=hd720;rel=0;showinfo=0;color=white;" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td class="vidtext">
+					<div class="vid">
+						Title: Merry go Round<br>
+						Run time: 5:31<br>
+						Description: A music video I shot for the band Drawn Out as a project for the Video Production class at Lee
+						University.<br>
+						Gear: Canon 7D | Rebel T2i | 50mm | 18-55mm | Stage lights<br>
+						Software: Final Cut Pro | Magic Bullet Looks
+					</div>
+				</td>
+			</tr>
+
+
+			<tr>
+				<td class="vidblock">
+					<iframe src="http://www.youtube.com/embed/0EscMp9pkM0?rel=0;showinfo=0;autohide=1;vq=hd720;theme=dark;rel=0;color=white;" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td class="vidtext">
+					<div class="vid">
+					Title: Jazzman's Cafe<br>
+					Run time: 0:30<br>
+					Description: A thirty second commercial spot assignment for video production class.<br>
+					Gear: Canon 7D | 50mm <br>
+					Software: Final Cut Pro | Color
+				</div>
+				</td>
+			</tr>
+
+
+
+			<tr>
+				<td class="vidblock">
+					<iframe src="http://www.youtube.com/embed/geOJFJ3kCJk?rel=0;showinfo=0;autohide=1;vq=hd720;theme=dark;rel=0;color=white;" frameborder="0" allowfullscreen></iframe>
+				</td>
+			</tr>
+			<tr>
+				<td class="vidtext">
+					<div class="vid">
+					Title: Good Morning: Kinetic Typography<br>
+					Run time: 0:35<br>
+					Description: An exercise in kinetic typography set to 'Good Morning' using keyframe animation and AE camera
+					tools. Motion Media Design class.<br>
+					Software: Adobe After Effects
+				</div>
+				</td>
+			</tr>
+
+
+	</tr>
+</table>
+</div>
+<!--END CONTENT-->
+</body>
+</html>
